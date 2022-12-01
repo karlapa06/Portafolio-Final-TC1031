@@ -1,0 +1,14 @@
+./app < input0.txt > mysolution0.txt
+diff mysolution0.txt output0.txt
+
+./app < input1.txt > mysolution1.txt
+diff mysolution1.txt output1.txt
+
+./app < input2.txt > mysolution2.txt
+diff mysolution2.txt output2.txt
+
+./app < input3.txt > mysolution3.txt
+diff mysolution3.txt output3.txt
+
+./app < input4.txt > mysolution4.txt
+diff mysolution4.txt output4.txt
